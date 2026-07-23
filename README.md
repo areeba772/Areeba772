@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeba772&label=Profile%20views&color=0e75b6&style=flat" alt="areeba772" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areeba772" alt="areeba772" /></a> </p>
-
 - 🔭 I'm currently working on **Meme Generator** & **Data Analysis Projects**
 
 - 🌱 I'm currently learning **React/API** and **Advanced Data Analytics (Power BI, SQL)**
@@ -72,8 +70,3 @@
 <img width="400" alt="Data Analyst YouTube Certificate" src="https://github.com/user-attachments/assets/531ff053-8b79-4326-bcad-292e7ebb6711" />
 <img width="300" alt="Verified Analytics Bootcamp Certification" src="https://github.com/user-attachments/assets/cb1b736e-23b9-4ece-aaae-a8a61a67d420" />
 </p>
-
-<h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeba772&show_icons=true&locale=en&layout=compact" alt="areeba772" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areeba772&show_icons=true&locale=en" alt="areeba772" /></p>
