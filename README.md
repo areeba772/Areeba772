@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Areeba Riaz Banner" src="https://github.com/user-attachments/assets/4cf5d45f-3224-4285-a550-2bffd3433ce1" />
+
 <h1 align="center">Hi 👋, I'm Areeba Riaz</h1>
 <h3 align="center">A passionate MERN Stack Developer & Data Analyst from Pakistan</h3>
 
@@ -13,13 +15,17 @@
 
 - 🤝 I'm looking for help with **Redux State Management**
 
-- 👨‍💻 All of my projects are available at [https://github.com/areeba772/Websites/tree/main/portfolio](https://github.com/areeba772/Websites/tree/main/portfolio)
+- 👨‍💻 My Web Development projects: [https://github.com/areeba772/Websites/tree/main/portfolio](https://github.com/areeba772/Websites/tree/main/portfolio)
+
+- 📊 My Data Analyst projects: [https://github.com/areeba772/Data-Analyst-Project](https://github.com/areeba772/Data-Analyst-Project)
+
+- 🎓 My Data Analyst Internship (Vortex Tech): [https://github.com/areeba772/Vortex-tech-internship-data-analyst-](https://github.com/areeba772/Vortex-tech-internship-data-analyst-)
 
 - 💬 Ask me about **React, MongoDB, Python, SQL, Excel & Power BI**
 
 - 📫 How to reach me **areebariaz084@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1wxuTYpl6zJzwGAvFqfDLh5L4EsNMJqT6/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1PC7F0lu5ZVdnzsJbV6Q7Iu12r1YOODs8/view?usp=drive_link)
 
 - ⚡ Fun fact **Error 404: Sleep not found**
 
@@ -51,19 +57,23 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/187906founded" alt="tableau" width="40" height="40"/></a>
 <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">📁 Featured Data Analyst Projects:</h3>
+<h3 align="left">📁 Featured Projects:</h3>
 
-- 📈 **Sales Data Analysis Dashboard** – Excel & Power BI se sales trends aur insights nikale
-- 🧹 **Data Cleaning with Python (Pandas)** – Raw messy data ko clean aur structured banaya
-- 📊 **COVID-19 Data Visualization** – Python (Matplotlib/Seaborn) se trends visualize kiye
-- 🗄️ **SQL Query Analysis Project** – Complex SQL queries se database se insights nikale
+- 📊 **[Data Analyst Projects](https://github.com/areeba772/Data-Analyst-Project)** – Python, SQL & Excel se data analysis aur visualization
+- 🎓 **[Vortex Tech Internship – Data Analyst](https://github.com/areeba772/Vortex-tech-internship-data-analyst-)** – Internship ke doran kiye gaye real-world data analytics tasks
+- 💻 **[Web Development Portfolio](https://github.com/areeba772/Websites/tree/main/portfolio)** – MERN Stack projects
 
-> Note: Upar diye gaye project links ko apne actual GitHub repo links se replace kar dein.
+<h3 align="left">🏆 Certificates:</h3>
+<p align="left">
+<img width="400" alt="Deloitte Data Analyst Certificate" src="https://github.com/user-attachments/assets/6ba7bb70-d0af-4b33-906a-e13aaaf757ca" />
+<img width="400" alt="Data Analyst YouTube Certificate" src="https://github.com/user-attachments/assets/531ff053-8b79-4326-bcad-292e7ebb6711" />
+<img width="300" alt="Verified Analytics Bootcamp Certification" src="https://github.com/user-attachments/assets/cb1b736e-23b9-4ece-aaae-a8a61a67d420" />
+</p>
 
+<h3 align="left">📈 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeba772&show_icons=true&locale=en&layout=compact" alt="areeba772" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areeba772&show_icons=true&locale=en" alt="areeba772" /></p>
