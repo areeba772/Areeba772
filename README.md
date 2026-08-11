@@ -40,6 +40,8 @@
 <img width="400" alt="Data Analyst YouTube Certificate" src="https://github.com/user-attachments/assets/531ff053-8b79-4326-bcad-292e7ebb6711" />
 <img width="300" alt="Verified Analytics Bootcamp Certification" src="https://github.com/user-attachments/assets/cb1b736e-23b9-4ece-aaae-a8a61a67d420" />
 </p>
+<img width="1536" height="1024" alt="vortex-certificate" src="https://github.com/user-attachments/assets/6c0543d1-5dd9-434f-aa2e-f847ca886cb3" />
+<img width="1600" height="1131" alt="developer-hub-certificate" src="https://github.com/user-attachments/assets/8c9bacfc-1004-4ad0-ab0f-298fa1f07b1e" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
