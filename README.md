@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-areebariaz.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white)](https://areebariazportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areeba-riaz-16ab53358/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areebariaz084@gmail.com)
 [![Portfolio Repo](https://img.shields.io/badge/Portfolio%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areeba772/data-analyst-portfolio-web)
